@@ -2,7 +2,6 @@
 
 Assignment_9 README
 Done by:              Shubham               2018CS10641
-	             Deepanshu Singh           2018CS10892
 
 ⦁	Please make a "out.txt" file for the output of the program and "instructions.txt" for the input instructions in the same folder as this file. Also, the test cases are in same folder as this file.
 ⦁	Instructions should be of the form "add $t1, $t2, $t3" with no extra spaces.
